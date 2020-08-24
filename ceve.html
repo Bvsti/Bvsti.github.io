@@ -3,7 +3,7 @@
 <head>
     <title>Curriculum Vitae 2020</title>
     <link rel="stylesheet" href="estilos.css">
-    <link rel="stylesheet" href="C:\Users\Basty\Desktop\Proyecto mio\bootstrap1\css\bootstrap.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <body>
@@ -57,7 +57,16 @@
                 <p>Santiago de Chile.</p>
                 <p>12/08/2020</p>
                 <br>
-                <button onclick="location.href='index.html'" type="button" class="btn btn-outline-success">Volver al inicio »</button>
+                <a onclick="location.href='index.html'" type="button" class="btn btn-outline-success">Volver al inicio »</a>
+                <script>
+        var meses = new Array ("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+        var diasSemana = new Array("Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado");
+        var f=new Date();
+        document.write(diasSemana[f.getDay()] + ", " + f.getDate() + " de " + meses[f.getMonth()] + " de " + f.getFullYear());
+         </script
+                    Lunes, 24 de Agosto de 2020
+        
+
             </footer>
 
         </div>
