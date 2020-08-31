@@ -8,3 +8,7 @@ h2{
     color: black;
     background-color: orange;
 }
+.fondo {
+    background:url(https://d2hua6cusslj16.cloudfront.net/img/loc_repeating_desktop@2x.png)top center repeat,url(https://d2hua6cusslj16.cloudfront.net/img/bg_texture_desktop.jpg) center center repeat;
+    background-size: 378px 294px,cover;
+}
