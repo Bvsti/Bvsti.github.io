@@ -1,19 +1,21 @@
 h1{
     color: black;
-    padding: 2%;
-    background-color: honeydew;
+    padding: 1%; color:black;
+    background-color: #d2431d;
     padding-bottom: 0%;
 }
 h2{
     color: black;
-    background-color: White;
+    background-color: #eca513;
 }
-fondo{
-    @media only screen and (min-width: 1500px)
+
+
+    @media only screen and (min-width: 1500px){
     #app 
     background:url(https://images4.alphacoders.com/788/thumb-1920-788503.png) top center repeat,url(https://d2hua6cusslj16.cloudfront.net/img/bg_texture_desktop.jpg) center center repeat;
         
 }
-footer{
-    color: black;
+p{  
+	padding-left: 60px;
+	font: BlinkMacSystemFont;
     }
