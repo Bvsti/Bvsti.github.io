@@ -8,13 +8,6 @@ h2{
     color: black;
     background-color: #FFA10F;
 }
-
-
-    @media only screen and (min-width: 1500px){
-    #app 
-    background:url(https://images4.alphacoders.com/788/thumb-1920-788503.png) top center repeat,url(https://d2hua6cusslj16.cloudfront.net/img/bg_texture_desktop.jpg) center center repeat;
-        
-}
 p{  
 padding-left: 60px;
 }
