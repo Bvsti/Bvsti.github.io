@@ -1,12 +1,12 @@
 h1{
     color: black;
     padding: 1%; color:black;
-    background-color: #d2431d;
+    background-color: #E82C04;
     padding-bottom: 0%;
 }
 h2{
     color: black;
-    background-color: #eca513;
+    background-color: #FFA10F;
 }
 
 
@@ -16,6 +16,5 @@ h2{
         
 }
 p{  
-	padding-left: 60px;
-	font: BlinkMacSystemFont;
-    }
+padding-left: 60px;
+}
